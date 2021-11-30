@@ -4,8 +4,8 @@ In this reposirity, I will analyze and show recursive problems in the algorithm 
 
 There is a list of problems that i analyzed:
 
-    1.  Insertion Sort
+    1.  Sorting algorithm: Bubble sort, Insertion sort, Selection sort, Quick sort, Merge sort.
 
-    2.  Bubble Sort
-    
-    3.  Selection Sort
+    2. 
+
+    3.
